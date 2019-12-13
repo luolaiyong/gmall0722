@@ -6,5 +6,6 @@
 public class GitCommitTest {
     public void hello(){
         System.out.println("I am from dev/2.0.1");
+        System.out.println("I am a handsome boy");
     }
 }
