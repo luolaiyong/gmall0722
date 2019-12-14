@@ -8,5 +8,6 @@ import com.sun.org.apache.xml.internal.resolver.helpers.PublicId;
 public class GitCommit {
     public void hello(){
         System.out.println("你该登陆了");
+        System.out.println("测试让我改的3.0.2");
     }
 }
