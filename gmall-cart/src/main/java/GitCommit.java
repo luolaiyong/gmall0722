@@ -5,7 +5,8 @@
  */
 public class GitCommit {
     public void hello(){
-        System.out.println("你该添加购物车了");
+        System.out.println("你该添加购物车了,3.0.1");
+        System.out.println("3.0.1");
         System.out.println("测试让我改的3.0.1");
     }
 }
