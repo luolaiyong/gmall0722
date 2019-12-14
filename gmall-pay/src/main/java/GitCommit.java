@@ -6,5 +6,6 @@
 public class GitCommit {
     public void hello(){
         System.out.println("你该支付了");
+        System.out.println("测试让我改的");
     }
 }
