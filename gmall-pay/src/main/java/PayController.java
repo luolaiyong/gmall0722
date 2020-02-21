@@ -5,6 +5,7 @@
  */
 public class PayController {
     public String alipay(){
+        System.out.println("支付宝支付9.0.1");
         return "finish";
     }
 }
