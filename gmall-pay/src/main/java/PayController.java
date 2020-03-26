@@ -12,5 +12,6 @@ public class PayController {
     public void wxPay(){
         System.out.println("微信支付上线了9.0.1");
         System.out.println("测试让改的bug,9.0.1");
+        System.out.println("测试让改的bug,9.0.12312");
     }
 }
