@@ -13,4 +13,7 @@ public class PayController {
         System.out.println("微信支付上线了9.0.1");
         System.out.println("测试让改的bug,9.0.1");
     }
+    public void pay(){
+        System.out.println("java1015开发支付模块11.0.1");
+    }
 }
