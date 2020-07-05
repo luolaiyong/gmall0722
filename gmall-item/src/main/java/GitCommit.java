@@ -6,5 +6,6 @@
 public class GitCommit {
     public void hello(){
         System.out.println("You are a smart boy");
+        System.out.println("1128支付模塊B組");
     }
 }
