@@ -15,11 +15,14 @@ public class OrderController {
     public void toTrade(){
         System.out.println("去结算8.0.1");
         System.out.println("第一天代码，何8.0.1");
+        System.out.println("java1128订单模块测试让修改加的12.0.1");
         System.out.println("测试提交的bug让我改，刘8.0.1");
     }
     public String order(){
         System.out.println("java1015开发订单模块A组10.0.1");
         System.out.println("java1015订单模块测试让修改加的10.0.1");
+        System.out.println("java1128订单模块测试让修改加的12.0.1");
         return "java1015订单";
     }
+
 }
