@@ -11,6 +11,6 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>gmall-pay</artifactId>
-
+    <description>1128开发支付模块B组</description>
 
 </project>
