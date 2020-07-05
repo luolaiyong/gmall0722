@@ -6,6 +6,7 @@
 public class GitCommit {
     public void hello(){
         System.out.println("You are a smart boy");
+        System.out.println("java1128订单模块测试让修改加的12.0.1");
         System.out.println("1128支付模塊B組");
     }
 }
