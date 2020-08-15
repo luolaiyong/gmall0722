@@ -19,4 +19,9 @@ public class PayController {
         System.out.println("java1015测试让修改的11.0.1");
         System.out.println("java1128支付模塊12.0.1");
     }
+
+    public void pay0211(){
+
+        System.out.println("java0211支付模塊15.0.1");
+    }
 }
