@@ -12,5 +12,6 @@ public class GitCommit {
         System.out.println("ceshikankan123");
         System.out.println("测试看看15.0.1");
         System.out.println("测试看看14.0.1");
+        System.out.println("0922测试冲突");
     }
 }
